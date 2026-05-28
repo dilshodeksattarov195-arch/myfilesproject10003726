@@ -1,0 +1,7 @@
+body { background: #d78243; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 47px; display: flex; }
+.block-email-0 { color: #bb8444; font-size: 18px; margin-bottom: 5px; }
+.block-session-1 { color: #294361; font-size: 16px; margin-bottom: 5px; }
+.block-sms-2 { color: #8de0c3; font-size: 13px; margin-bottom: 5px; }
+.block-payment-3 { color: #fdac5c; font-size: 15px; margin-bottom: 5px; }
+.block-session-4 { color: #4e4542; font-size: 19px; margin-bottom: 5px; }
